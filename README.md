@@ -1,4 +1,6 @@
-# ✨Hi everyone✨👋
+# ¡Hola, bienvenido!👋
+## ✨Soy Brando desarrollador Frontend y Backend.✨ 
+
 
 
 <!--
