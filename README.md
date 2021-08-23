@@ -1,4 +1,4 @@
-# ¡Hola, bienvenido!👋
+# ¡Hola, bienvenid@!👋
 ## ✨Soy Brando, desarrollador Frontend y Backend, me gusta programar y aprender nuevas tecnologías.✨
 
 ![Styles - Google Chrome](https://user-images.githubusercontent.com/47580383/130474650-654397ac-8db7-4965-949b-fcc0ac2bc199.jpg)
