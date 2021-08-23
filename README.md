@@ -1,7 +1,8 @@
 # ¡Hola, bienvenido!👋
 ## ✨Soy Brando, desarrollador Frontend y Backend, me gusta programar y aprender nuevas tecnologías.✨
 
-![styles css - styles - Visual Studio Code](https://user-images.githubusercontent.com/47580383/130386614-1502d207-b256-4751-aa55-b445a1a1d528.jpg)
+![Styles - Google Chrome](https://user-images.githubusercontent.com/47580383/130474650-654397ac-8db7-4965-949b-fcc0ac2bc199.jpg)
+
 
 
 
