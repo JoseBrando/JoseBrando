@@ -1,5 +1,5 @@
 # ¡Hola, bienvenido!👋
-## ✨Soy Brando desarrollador Frontend y Backend.✨ 
+- ## ✨Soy Brando desarrollador Frontend y Backend.✨ 
 
 ![styles css - styles - Visual Studio Code](https://user-images.githubusercontent.com/47580383/130386614-1502d207-b256-4751-aa55-b445a1a1d528.jpg)
 
